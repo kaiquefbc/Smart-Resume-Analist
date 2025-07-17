@@ -1,0 +1,6 @@
+Flask
+python-docx
+PyMuPDF
+openai
+PyPDF2
+reportlab
