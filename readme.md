@@ -27,3 +27,9 @@ Built with **Python (Flask)** on the backend and **HTML/CSS/JS** on the frontend
 - **AI Model**: OpenAI GPT (via API)
 
 ---
+
+## .Env
+
+- Please add your Open AI API key to .env to make the program work
+
+---
